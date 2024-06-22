@@ -1,6 +1,7 @@
-# BotDetection
-Bot Detection for Accurate Survey Results with Besample
+# Bot Detection
 ![Besample](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/https___62e11931a860a39a714f6a6ef2e0a561.cdn.bubble.io_f1673959027254x692225471550134500_B_291x60_color%25201.png)
+
+Bot Detection for Accurate Survey Results with Besample
 
 Besample is a startup created to help researchers who work in both industry and academia to easily study diverse people from across the globe. they aim to enhance the reliability and accuracy of its survey results. Given the prevalence of automated bots that can skew data integrity, it is essential to identify and filter out these non-human participants. The presence of bots not only affects the authenticity of the survey data but also compromises the quality of insights derived from the research. Consequently, BeSample is committed to employing machine learning techniques to detect and mitigate the impact of bots on their surveys.
 
