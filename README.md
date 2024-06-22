@@ -17,6 +17,7 @@ By achieving this, BeSample aims to:
 **Optimize Resource Allocation:** Reduce wasted resources on processing and analyzing responses.
 
 ## Bot Activity
+[Bot Activity over Time](
 
 To look for bots, we can look for anomalies or inconsistencies in response times, patterns in answers, IP addresses, and existing flags. 
 - Check for unusual patterns such as identical response times across different surveys. 
