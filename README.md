@@ -37,9 +37,12 @@ Flagging the hard facts and soft facts for potenttial bots and suspicious users,
 
 ## Conclusions
 
+Flagging the hard facts and soft facts for potenttial bots and suspicious users, in the multiple columns revelaed: 
+
 **380 suspicious users**
 
 **71 matched with the 'isBot' column**
+![match](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/isbot%20match.png)
 
 ### Suggestions for Future Proofing
 
