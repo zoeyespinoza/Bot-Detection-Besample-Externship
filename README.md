@@ -30,10 +30,11 @@ To look for bots, we can look for anomalies or inconsistencies in response times
 The 'isBot' column can be a lead for indicating Bot-like behavior. This column was created after an attack Mid January 2024. However, the company said these values were quickly assigned and may not be correct.
 
 Flagging the hard facts and soft facts for potenttial bots and suspicious users, in the multiple columns revelaed: 
-
-![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide10.jpg)
-![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide11.jpg)
 ![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide9.jpg)
+
+![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide11.jpg)
+![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide10.jpg)
+
 ## Conclusions
 
 **380 suspicious users**
