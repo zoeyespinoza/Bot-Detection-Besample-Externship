@@ -9,6 +9,7 @@ Besample is a startup created to help researchers who work in both industry and 
 
 [Presentation Slides](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/Besample_PresentationSlides.pdf)
 ## Purpose
+![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide4.jpg)
 The primary goal of this project is to develop a robust machine learning model that can efficiently identify bots within the user base. 
 By achieving this, BeSample aims to:
 
@@ -27,3 +28,26 @@ To look for bots, we can look for anomalies or inconsistencies in response times
 - Analyze response patterns for uniformity that might indicate scripted (Bot-like) answers.
 
 The 'isBot' column can be a lead for indicating Bot-like behavior. This column was created after an attack Mid January 2024. However, the company said these values were quickly assigned and may not be correct.
+
+Flagging the hard facts and soft facts for potenttial bots and suspicious users, in the multiple columns revelaed: 
+
+![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide10.jpg)
+![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide11.jpg)
+![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide9.jpg)
+## Conclusions
+
+**380 suspicious users**
+
+**71 matched with the 'isBot' column**
+
+### Suggestions for Future Proofing
+
+- Employ Two-Factor Authentication
+- Automate unique survey links for participants to prevent bots from accessing multiple surveys with the same link.
+- Include hidden items in a survey that will be seen by computers but not by respondents, so if completed it will flag as bot (honeypot).
+- Apply rate limiting, IP address monitoring services, security (Cloudflare).
+- Use third-party bot detection services or APIs.
+- Utilize machine learning algorithms to continuously improve bot detection capabilities and stay ahead of threats.
+
+
+
