@@ -10,7 +10,8 @@ Besample is a startup created to help researchers who work in both industry and 
 [Presentation Slides](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/Besample_PresentationSlides.pdf)
 ## Purpose
 ![slide](https://github.com/zoeyespinoza/Bot-Detection-Besample-Externship/blob/main/graphs/slide4.jpg)
-The primary goal of this project is to develop a robust machine learning model that can efficiently identify bots within the user base. 
+The project focuses on identifying and understanding bot activity in surveys to ensure BeSample receives high-quality, reliable data from genuine participants. By meticulously analyzed anomalies, outliers, and indicators of bot activity to strengthen BeSample's data integrity and cybersecurity. 
+
 By achieving this, BeSample aims to:
 
 **Enhance Data Integrity:** Ensure that survey results are exclusively derived from genuine respondents.
